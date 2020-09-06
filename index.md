@@ -1,14 +1,8 @@
-# <img align="left" width="40" height="40" src="https://docs.google.com/drawings/d/e/2PACX-1vQn7ThmeN3X-PulClp9D9SapgJNSXX18EbkMdmxtu4rxZDmkdQgR5rBxGqJZTJeE6hNUwDm5OqK9mxb/pub?w=96&h=96">Betz Drive
+# Betz Drive <img inline="True" align="left" width="40" height="40" src="https://docs.google.com/drawings/d/e/2PACX-1vQn7ThmeN3X-PulClp9D9SapgJNSXX18EbkMdmxtu4rxZDmkdQgR5rBxGqJZTJeE6hNUwDm5OqK9mxb/pub?w=96&h=96">
   
 <p align="center">
   An Open Source Actuator for Robotics Research and Development
 </p>
-
-<p align="center">
-  https://github.com/BetzDrive
-</p>
-
-
 
 ## All-In-One
 
@@ -27,18 +21,26 @@ The most unique feature of Betz Drive is the 'disco-bus', a pass-through connect
 * Operating Range (24V - 48V DC)
 * Operating Current (3.5A continuous, 6.5A peak)
   * Generally used with high-impedance gimbal motors.
+  
 ### Devices
 * Microcontroller (STM32F405)
 * Driver (DRV8312)
 * Current Sensors (INA253)
 * Encoder (AS5047U)
 * Temperature Sensor (MCP9808)
+
 ### Connectors
 * Power [V+, GND]
 * Serial over RS485 [D+, D-] (custom protocol)
 * Disco Bus [In or Out] (spec)
   * The input is the connection surrounded by capacitors
+  
 ### Dimensions
 * Single board: 60mm x 60mm x 13.8mm
 * Double stack: 60mm x 60mm x 20mm
 * Holes: 52mm separation (square)
+
+## Images
+
+<img align="left" width="418" height="440" src="images/board_on_motor.jpg"/>
+<img align="right" width="380" height="440" src="images/sandwich.jpg"/>
