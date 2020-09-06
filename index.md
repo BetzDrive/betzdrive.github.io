@@ -42,5 +42,7 @@ The most unique feature of Betz Drive is the 'disco-bus', a pass-through connect
 
 ## Images
 
-<img align="left" width="418" height="440" src="images/board_on_motor.jpg"/>
-<img align="right" width="380" height="440" src="images/sandwich.jpg"/>
+<p align="center">
+  <img width="418" height="440" src="images/board_on_motor.jpg"/>
+  <img width="380" height="440" src="images/sandwich.jpg"/>
+</p>
