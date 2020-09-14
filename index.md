@@ -1,4 +1,4 @@
-# Betz Drive <img inline="True" align="left" width="40" height="40" src="https://docs.google.com/drawings/d/e/2PACX-1vQn7ThmeN3X-PulClp9D9SapgJNSXX18EbkMdmxtu4rxZDmkdQgR5rBxGqJZTJeE6hNUwDm5OqK9mxb/pub?w=96&h=96">
+# Betz Drive
   
 <p align="center">
   An Open Source Actuator for Robotics Research and Development
