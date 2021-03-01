@@ -6,7 +6,7 @@
 
 ## All-In-One
 
-The design of Betz Drive was intended to pursue low-cost motor controllers capable of both running a brushless DC motor and collecting necessary data for controlling a complex robot. The project started and remains, the core of [blue robot](https://www.berkeleyopenarms.org/). As such, the controller contains a variety of devices and sensors built into one board.
+The design of Betz Drive was intended to pursue low-cost motor controllers capable of both running a brushless DC motor and collecting necessary data for controlling a complex robot. The project started as and remains the core of [blue robot](https://www.berkeleyopenarms.org/). As such, the controller contains a variety of devices and sensors built into one board.
 
 * 6-axis IMU
 * 3-Phase Current Sense
